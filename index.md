@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=63575380" charset="UTF-8"></script>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kumine/kumine.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
