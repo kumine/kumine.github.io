@@ -23,8 +23,8 @@ description: the blog of caumine
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Bio123: "bio123"
+  About Me: "https://kumine.github.io/aboutme/"
+  Bio123: "https://kumine.github.io/bio123/"
   #Resources:
     #- Lab Blog: "labdoc/index"
     #- Lab Tutorial: "JYang-Lab-tutorial"
