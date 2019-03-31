@@ -24,7 +24,7 @@ description: the blog of caumine
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Bio123: "Bio123"
+  Bio123: "bio123"
   #Resources:
     #- Lab Blog: "labdoc/index"
     #- Lab Tutorial: "JYang-Lab-tutorial"
