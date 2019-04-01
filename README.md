@@ -1,1 +1,1 @@
-[caumine's blog](https://kumine.github.io)
+[caumine's blog](https://kumine.github.io){:target="_blank"}
