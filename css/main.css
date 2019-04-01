@@ -787,3 +787,8 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+
+<style type="text/css"> 
+           .openInNewWindow a:active {test:expression(target="_blank");}  
+</style>
