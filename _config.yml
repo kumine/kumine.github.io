@@ -94,7 +94,7 @@ share-links-active:
 disqus: "caumine"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: "UA-48206713-5"
+google_analytics: "UA-138350958-1"
 baidu_analysis:  "8f10c5a049af752fa526580995d45613"
 
 # Facebook App ID
